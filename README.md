@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi I'm Albert (Al for short) 👋
+
+I'm a PhD Candidate in the [Department of Statistics at the University of Wisconsin - Madison](https://stat.wisc.edu/), ["la Caixa"](https://lacaixafoundation.org/en/) Fellow, advised by Professor [Wei-Yin Loh](https://pages.stat.wisc.edu/~loh/index.html), a world expert in tree-based methods. My focus is on trustworthy AI, and I'm currently developing TRUST (Transparent, Robust and Ultra-Sparse Trees) -- the most interpretable model tree algorithm ever created. Preliminary results (coming soon) show that it often matches or exceeds the accuracy of leading black-box machine learning models like Random Forests, while remaining fully explainable.
+
+Before joining UW-Madison, I worked as a financial risk analyst at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). Earlier, I was a Master's student at [Barcelona Tech (UPC)](https://www.upc.edu/en/), an exchange student-athlete at [Carnegie Mellon University](https://www.cmu.edu/) and a double-degree undergraduate student at [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/en/home).
+
+Here on GitHub, I version-control the latest developments of my TRUST algorithm. I will also host my free and premium Python (Cythonized) TRUST packages.
 
 <!--
 **adc-trust-ai/adc-trust-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
