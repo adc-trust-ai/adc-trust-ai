@@ -4,7 +4,7 @@ I'm a PhD Candidate in the [Department of Statistics at the University of Wiscon
 
 Before joining UW-Madison, I worked as a financial risk analyst at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). Earlier, I was a Master's student at [Barcelona Tech (UPC)](https://www.upc.edu/en/), an exchange student-athlete at [Carnegie Mellon University](https://www.cmu.edu/) and a double-degree undergraduate student at [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/en/home).
 
-Here on GitHub, I version-control the latest developments of my TRUST algorithm. I will also host my free and premium Python (Cythonized) TRUST packages.
+Here on GitHub, I version-control the latest developments of my TRUST algorithm. I also host my free (pre-compiled) Python TRUST package `trust-free`.
 
 <!--
 **adc-trust-ai/adc-trust-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
