@@ -1,10 +1,14 @@
 ## Hi I'm Albert (Al for short) 👋
 
-I'm a recent PhD graduate from the the [Department of Statistics at the University of Wisconsin - Madison](https://stat.wisc.edu/), ["la Caixa"](https://lacaixafoundation.org/en/) Fellow, advised by Professor [Wei-Yin Loh](https://pages.stat.wisc.edu/~loh/index.html), a world expert in tree-based methods. My focus is on trustworthy AI, and I'm currently developing TRUST (Transparent, Robust and Ultra-Sparse Trees) - the most interpretable model tree algorithm ever created. Preliminary results (coming soon) show that it often matches or exceeds the accuracy of leading black-box machine learning models like Random Forests, while remaining fully explainable. My goal is simple: to provide innovative and safe AI tools that allow users in high-stakes domains to stop choosing between accuracy and interpretability - and, in doing so, make a positive impact on society.
+I'm a recent PhD graduate from the the [Department of Statistics at the University of Wisconsin - Madison](https://stat.wisc.edu/), ["la Caixa"](https://lacaixafoundation.org/en/) Fellow, advised by Professor [Wei-Yin Loh](https://pages.stat.wisc.edu/~loh/index.html), a world expert in tree-based methods. My focus is on trustworthy AI, and I'm currently developing TRUST (Transparent, Robust and Ultra-Sparse Trees) - the most interpretable model tree algorithm ever created. [Our results](https://arxiv.org/abs/2506.15791) show that TRUST often matches or exceeds the accuracy of leading black-box machine learning models like Random Forests, while remaining fully explainable. My goal is simple: to provide innovative and safe AI tools that allow users in high-stakes domains to stop choosing between accuracy and interpretability - and, in doing so, make a positive impact on society.
 
 Before joining UW-Madison, I worked as a financial risk analyst at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). Earlier, I was a Master's student at [Barcelona Tech (UPC)](https://www.upc.edu/en/), an exchange student-athlete at [Carnegie Mellon University](https://www.cmu.edu/) and a double-degree undergraduate student at [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/en/home).
 
 Here on GitHub, I version-control the latest developments of my TRUST algorithm. I also host my free (pre-compiled) Python TRUST package `trust-free`.
+
+**trust-free** is a Python package for fitting interpretable regression models using Transparent, Robust, and Ultra-Sparse Trees (TRUST) — a new generation of Linear Model Trees (LMTs) with state-of-the-art accuracy and intuitive explanations. It is based on my [peer-reviewed paper](https://arxiv.org/abs/2506.15791), **accepted at the 22nd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)**.
+
+The package currently supports standard regression and experimental time-series regression tasks. Future releases will also tackle other tasks such as classification.
 
 <!--
 **adc-trust-ai/adc-trust-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
