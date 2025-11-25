@@ -6,7 +6,7 @@ Before joining UW-Madison, I worked as a financial risk analyst at the [European
 
 Here on GitHub, I version-control the latest developments related to my TRUST algorithm. My free (pre-compiled) Python TRUST package `trust-free` is hosted on PyPI and can be easily installed on macOs via `pip install trust-free`.
 
-`trust-free` is a Python package for fitting interpretable regression models using Transparent, Robust, and Ultra-Sparse Trees (TRUST) — a new generation of Linear Model Trees (LMTs) with state-of-the-art accuracy and intuitive explanations. It is based on my [peer-reviewed paper](https://arxiv.org/abs/2506.15791), **accepted at the 22nd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)**.
+`trust-free` is a Python package for fitting interpretable regression models using Transparent, Robust, and Ultra-Sparse Trees (TRUST) — a new generation of Linear Model Trees (LMTs) with high accuracy and intuitive explanations. It is based on my [peer-reviewed paper](https://arxiv.org/abs/2506.15791), **presented at the 22nd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)**.
 
 The package currently supports standard regression and experimental time-series regression tasks. Future releases will also tackle other tasks such as classification.
 
