@@ -4,7 +4,7 @@ I'm a recent PhD graduate from the the [Department of Statistics at the Universi
 
 Before joining UW-Madison, I worked as a financial risk analyst at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html). Earlier, I was a Master's student at [Barcelona Tech (UPC)](https://www.upc.edu/en/), an exchange student-athlete at [Carnegie Mellon University](https://www.cmu.edu/) and a double-degree undergraduate student at [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/en/home).
 
-Here on GitHub, I version-control the latest developments related to my TRUST algorithm. My free (pre-compiled) Python TRUST package `trust-free` is hosted on PyPI and can be easily installed on macOs via `pip install trust-free`.
+Here on GitHub, I version-control the latest developments related to my TRUST algorithm. My free (pre-compiled) Python TRUST package `trust-free` is hosted on PyPI and can be downloaded for free and installed on macOs or Linux via `pip install trust-free`.
 
 `trust-free` is a Python package for fitting interpretable regression models using Transparent, Robust, and Ultra-Sparse Trees (TRUST) — a new generation of Linear Model Trees (LMTs) with high accuracy and intuitive explanations. It is based on my [peer-reviewed paper](https://arxiv.org/abs/2506.15791), **presented at the 22nd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)**.
 
