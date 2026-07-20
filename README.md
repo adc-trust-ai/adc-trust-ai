@@ -10,7 +10,7 @@ Here on GitHub, I version-control the latest developments related to my TRUST al
 
 `trust-free` is a Python package for fitting interpretable regression models using Transparent, Robust, and Ultra-Sparse Trees (TRUST) — a new generation of Linear Model Trees (LMTs) with high accuracy and intuitive explanations. It is based on my [peer-reviewed paper](https://arxiv.org/abs/2506.15791), recently published as PRICAI 2025 proceedings on **Lecture Notes in Artificial Intelligence (Springer Nature)**.
 
-The package currently supports standard regression and experimental time-series regression tasks. Future releases will also tackle other tasks such as classification.
+The package currently supports multiclass classification, standard regression and experimental time-series regression tasks.
 
 <!--
 **adc-trust-ai/adc-trust-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
