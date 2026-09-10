@@ -5,7 +5,7 @@ Prior to this, I was an Adjunct Professor of Mathematics at [Universitat Pompeu 
 
 My goal is simple: to provide innovative and safe AI tools that allow users in high-stakes domains to stop choosing between accuracy and interpretability - and, in doing so, make a positive impact on society. In a world that is being pushed towards ever-increasing complexity and opacity, I am instead redefining the boundaries of what white-box models for tabular data can accomplish.
 
-Before joining UW-Madison, I worked as a financial risk analyst at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html), where I lead some early ML projects in the Directorate of Risk Management, back in 2017. Earlier, I was a Master's student at [BarcelonaTech (UPC)](https://www.upc.edu/en/), an exchange student-athlete at [Carnegie Mellon University](https://www.cmu.edu/) and a double-degree undergraduate student at [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/en/home).
+Before joining UW-Madison, I worked as a financial risk analyst at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html), where I led some early ML projects in the Directorate of Risk Management, back in 2017. Earlier, I was a Master's student at [BarcelonaTech (UPC)](https://www.upc.edu/en/), an exchange student-athlete at [Carnegie Mellon University](https://www.cmu.edu/) and a double-degree undergraduate student at [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/en/home).
 
 Here on GitHub, I version-control the latest developments related to my TRUST algorithm. My Python TRUST package `trust-free` is hosted on PyPI and can be downloaded for free and installed via `pip install trust-free`.
 
