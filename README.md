@@ -14,8 +14,8 @@ Here on GitHub, I version-control the latest developments related to my TRUST al
 The package currently supports multiclass classification, standard regression and experimental time-series regression tasks.
 
 **Upcoming Talks:**
-  * [MS Data Science & AI for Business, Guest Lecture, HEC Paris](https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec) (Sep 2026)
-  * [25e journée d'économétrie appliquée à la finance, Plenary Session, Paris Nanterre / CNRS](https://economix.fr/fr/colloques-et-workshops/25eme-journee-deconometrie-developpements-recents-de-leconometrie-appliquee-a-la-finance) (Nov 2026)
+  * [MS Data Science & AI for Business, Guest Lecture on AdaLogit, HEC Paris](https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec) (Sep 2026)
+  * [25e journée d'économétrie appliquée à la finance, Plenary Session on AdaLogit, Paris Nanterre / CNRS](https://economix.fr/fr/colloques-et-workshops/25eme-journee-deconometrie-developpements-recents-de-leconometrie-appliquee-a-la-finance) (Nov 2026)
 
 <!--
 **adc-trust-ai/adc-trust-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
